@@ -9,3 +9,4 @@ with col2:
 content= """
 Hi I am Elnura, creating new web page with columns
 """"
+st.write(content)
