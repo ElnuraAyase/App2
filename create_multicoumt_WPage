@@ -5,4 +5,4 @@ with col1:
     st.image(link.png)
 
 with col2:
-    st.title(Elnura)
+    st.title("Elnura")
