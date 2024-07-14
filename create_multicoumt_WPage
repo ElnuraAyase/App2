@@ -6,3 +6,6 @@ with col1:
 
 with col2:
     st.title("Elnura")
+content= """
+Hi I am Elnura, creating new web page with columns
+""""
